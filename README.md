@@ -1,5 +1,5 @@
 # Tailscale for Kindle (KUAL)
-This (very very) simple repo allows you to connect your kindle remotely from anywhere using Tailscale VPN.
+This (very very) simple repo integrates Kindle to your Tailscale network, allowing remote access and fileshare via Taildrop.
 
 
 ## Prerequisites:
