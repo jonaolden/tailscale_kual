@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Read the Taildrop directory path from the file
-TAILDROP_DIR=$(cat /mnt/us/extensions/tailscale/config/tailscale_dir.txt)
+TAILDROP_DIR=$(cat /mnt/us/extensions/tailscale/config/taildrop_dir.txt)
 
 # Receive files via Taildrop
 kh_msg "Receiving Taildrop files..."
